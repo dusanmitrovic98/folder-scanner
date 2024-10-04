@@ -1,0 +1,131 @@
+{
+  "name": "deno-template",
+  "type": "d",
+  "children": [
+    {
+      "name": "",
+      "type": "d",
+      "children": []
+    },
+    {
+      "name": ".core",
+      "type": "d",
+      "children": [
+        {
+          "name": "build.ts",
+          "type": "f",
+          "content": "~skipped~"
+        },
+        {
+          "name": "git",
+          "type": "d",
+          "children": [
+            {
+              "name": "commit.ts",
+              "type": "f",
+              "content": "~skipped~"
+            },
+            {
+              "name": "push.ts",
+              "type": "f",
+              "content": "~skipped~"
+            },
+            {
+              "name": "sync.ts",
+              "type": "f",
+              "content": "~skipped~"
+            }
+          ]
+        },
+        {
+          "name": "logger.ts",
+          "type": "f",
+          "content": "~skipped~"
+        },
+        {
+          "name": "version-bump.ts",
+          "type": "f",
+          "content": "~skipped~"
+        }
+      ]
+    },
+    {
+      "name": ".env",
+      "type": "f",
+      "content": "~skipped~"
+    },
+    {
+      "name": ".vscode",
+      "type": "d",
+      "children": [
+        {
+          "name": "settings.json",
+          "type": "f",
+          "content": "~skipped~"
+        }
+      ]
+    },
+    {
+      "name": "changelog-guidelines.md",
+      "type": "f",
+      "content": "~skipped~"
+    },
+    {
+      "name": "CHANGELOG.md",
+      "type": "f",
+      "content": "~skipped~"
+    },
+    {
+      "name": "deno.json",
+      "type": "f",
+      "content": "~skipped~"
+    },
+    {
+      "name": "deno.lock",
+      "type": "f",
+      "content": "~skipped~"
+    },
+    {
+      "name": "index.ts",
+      "type": "f",
+      "content": "~skipped~"
+    },
+    {
+      "name": "README.md",
+      "type": "f",
+      "content": "~skipped~"
+    },
+    {
+      "name": "src",
+      "type": "d",
+      "children": [
+        {
+          "name": "main.ts",
+          "type": "f",
+          "content": "~skipped~"
+        }
+      ]
+    },
+    {
+      "name": "tests",
+      "type": "d",
+      "children": [
+        {
+          "name": "main-test.ts",
+          "type": "f",
+          "content": "~skipped~"
+        }
+      ]
+    },
+    {
+      "name": "version-bump-guide.md",
+      "type": "f",
+      "content": "~skipped~"
+    },
+    {
+      "name": "version-history.json",
+      "type": "f",
+      "content": "~skipped~"
+    }
+  ]
+}
